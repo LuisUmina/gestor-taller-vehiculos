@@ -1,0 +1,25 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EP_FSI_Video1_Parte1", "gestor-taller-vehiculos\EP_FSI_Video1_Parte1.csproj", "{EBE1C64C-91E9-473C-9A8B-D59437195B02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBE1C64C-91E9-473C-9A8B-D59437195B02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBE1C64C-91E9-473C-9A8B-D59437195B02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBE1C64C-91E9-473C-9A8B-D59437195B02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBE1C64C-91E9-473C-9A8B-D59437195B02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05469A9F-353A-4C0E-9A27-FF6A2F65D5BC}
+	EndGlobalSection
+EndGlobal
