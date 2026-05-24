@@ -82,6 +82,13 @@ gestor-taller-vehiculos/
 
 ---
 
+## 📄 Enunciado del ejercicio
+
+El enunciado completo con los requerimientos del sistema está disponible en:
+📎 [`docs/enunciado.pdf`](docs/enunciado.pdf)
+
+---
+
 ## 🎬 Desarrollo paso a paso en YouTube
 
 > Serie de 4 videos que documenta el desarrollo completo del sistema: desde la definición de modelos y la controladora hasta los formularios de registro y los reportes con LINQ.
